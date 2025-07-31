@@ -11,6 +11,7 @@ Welcome to my GitHub! I'm a full-stack software engineer passionate about buildi
 
 ## 📊 GitHub Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moenga60&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moenga60&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moenga60&layout=compact&theme=radical)
 
@@ -51,13 +52,6 @@ Modular ticketing platform for events with QR code integration.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moenga60&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moenga60&layout=compact&theme=tokyonight)
-![Codemeal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moenga60&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Let's Connect
 

@@ -11,7 +11,6 @@ Welcome to my GitHub! I'm a full-stack software engineer passionate about buildi
 
 ## 📊 GitHub Stats
 
-![Wakatime](https://wakatime.com/@5e22523b-6a45-4d32-a94a-a5176c2a96ea)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moenga60&theme=dark&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moenga60&show_icons=true&theme=radical)
@@ -28,31 +27,6 @@ Welcome to my GitHub! I'm a full-stack software engineer passionate about buildi
 
 ---
 
-
-## 📌 Featured Projects
-
-### 🛒 [SmartShop - E-commerce Platform](https://github.com/moenga60/smartshop)
-A full-stack e-commerce platform using Django REST API & React.
-
-> 🔹 User auth, cart, Stripe payments  
-> 🔹 PostgreSQL DB, Tailwind CSS  
-> 🔹 Responsive & deployed
-
-### 🧠 [Credit Scoring AI](https://github.com/moenga60/credit-scoring-ai)
-An ML model that predicts creditworthiness based on financial behavior.
-
-> 🔹 Logistic Regression, Random Forest  
-> 🔹 Streamlit Dashboard  
-> 🔹 Django backend integration
-
-### 🎟 [Event Ticketing System](https://github.com/moenga60/event-stage)
-Modular ticketing platform for events with QR code integration.
-
-> 🔹 Role-based login, ticket scan  
-> 🔹 PDF generation, real-time stats  
-> 🔹 Styled with TypeScript
-
----
 
 
 ## 📫 Let's Connect

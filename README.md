@@ -8,6 +8,9 @@ Welcome to my GitHub! I'm a full-stack software engineer passionate about buildi
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ## 📊 GitHub Stats
 

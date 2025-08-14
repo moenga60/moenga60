@@ -3,7 +3,6 @@
 Welcome to my GitHub! I'm a full-stack software engineer passionate about building scalable web applications, AI-powered tools, and intuitive user interfaces.
 
 - 🧠 Machine Learning & AI Enthusiast  
-- 🛠️ Currently building: an event ticketing system and a Chama app  
 - 🌍 Based in Kenya | Open to remote opportunities
 
 ---

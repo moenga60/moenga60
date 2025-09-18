@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm a full-stack software engineer passionate about buildi
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/moengadaniel)
+- 💼 [LinkedIn](https://www.linkedin.com/in/moenga-daniel-3074b42b0/)
 - 🌐 [Portfolio](https://codemeal-portfolio.netlify.app/)
 - ✉️ Email: moengadaniel60@gmail.com
 
@@ -49,6 +49,6 @@ Welcome to my GitHub! I'm a full-stack software engineer passionate about buildi
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAMEmoengadaniel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moenga-daniel-3074b42b0/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/22693969)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@YOUR_USERNAME)

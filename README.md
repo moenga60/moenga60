@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a full-stack software engineer passionate about buildi
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/moenga-daniel-3074b42b0/)
-- 🌐 [Portfolio](https://codemeal-portfolio.netlify.app/)
+- 🌐 [Portfolio](https://codemeal.netlify.app/)
 - ✉️ Email: moengadaniel60@gmail.com
 
 ---

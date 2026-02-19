@@ -35,7 +35,7 @@ Welcome to my GitHub Page! I'm a full-stack software-engineer passionate about b
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/moenga-daniel-3074b42b0/)
 - 🌐 [Portfolio](https://codemeal.netlify.app/)
-- ✉️ Email: moengadaniel60@gmail.com
+- ✉️ .[Email]: moengadaniel60@gmail.com
 
 ---
 

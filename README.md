@@ -28,26 +28,16 @@
 <br/>
 
 <!-- Standard stats card -->
-<img src="https://github-readme-stats.vercel.app/api?username=moenga60&show_icons=true&theme=github_dark&hide_border=true&icon_color=00D4AA&title_color=00D4AA" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=moenga60&show_icons=true&theme=github_dark&hide_border=true&icon_color=00D4AA&title_color=00D4AA" alt="GitHub Stats" /> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- Top languages compact -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moenga60&layout=donut&theme=github_dark&hide_border=true&title_color=00D4AA" alt="Top Languages" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moenga60&layout=donut&theme=github_dark&hide_border=true&title_color=00D4AA" alt="Top Languages" /> -->
 
 </div>
 
----
 
-## 🧑‍💻 About Me
-
-I'm a **full-stack software engineer** passionate about building scalable web applications, mobile applications, AI-powered tools, and intuitive user interfaces.
-
-- 🧠 Machine Learning & AI Enthusiast
-- 🌍 Based in **Kenya** | Open to remote opportunities
-- 🔭 Currently building at **[CodeMeal](https://codemeal.netlify.app/)**
-
----
 
 ## 🧰 Tech Stack
 

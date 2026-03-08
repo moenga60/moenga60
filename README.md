@@ -6,7 +6,7 @@
 <br/>
 
 <!-- GitHub Profile Grade — A+ green circle ring (matches image 1) -->
-<img src="https://api.githubtrends.io/user/svg/moenga60/langs?time_range=one_year&theme=dark" alt="GitHub Trends" />
+<!-- <img src="https://api.githubtrends.io/user/svg/moenga60/langs?time_range=one_year&theme=dark" alt="GitHub Trends" /> -->
 
 <br/>
 

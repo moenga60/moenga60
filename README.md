@@ -44,7 +44,7 @@
 
 ---
 
-## 🧰 Tech-Stack
+## 🧰 Tech Stack
 
 <!-- Skill icons grid — mirrors the scrolling icon row in image 2 -->
 <div align="center">

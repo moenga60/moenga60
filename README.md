@@ -9,7 +9,6 @@
 <!-- <img src="https://api.githubtrends.io/user/svg/moenga60/langs?time_range=one_year&theme=dark" alt="GitHub Trends" /> -->
 
 <br/>
-
 <a href="https://github.com/moenga60">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codetabs.com%2Fv1%2Fgh-stats%3Fuser%3Dmoenga60&label=Grade&query=%24.grade&color=2ecc71&labelColor=1a2332&style=for-the-badge&logo=github&logoColor=2ecc71" alt="Grade" />
 </a>

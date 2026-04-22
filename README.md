@@ -68,6 +68,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![C#](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=c#&logoColor=FCC624)
 
 </div>
 

@@ -79,7 +79,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4AA)](https://www.linkedin.com/in/moenga-daniel-3074b42b0/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=netlify&logoColor=00D4AA)](https://codemeal.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=netlify&logoColor=00D4AA)](https://codemeal.co.ke/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=FE7A16)](https://stackoverflow.com/users/22693969)
 [![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=FFFFFF)](https://medium.com/@moengadaniel60)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:moengadaniel60@gmail.com)
